@@ -13,6 +13,9 @@ A rounded understanding of linear algebra and calculus and their applications
 
 
 
+## Running reports
+[technical report Final](
+
 
 
 ## Differentiability Application
