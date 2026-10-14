@@ -7,4 +7,4 @@ A collection of mathematical explorations and topics
 An interactive application exploring numerical
 differentiation, continuity, and tangent lines.
 
-[Launch Differentiability Application](relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html)
+[Launch Differentiability Application](https://relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html)
