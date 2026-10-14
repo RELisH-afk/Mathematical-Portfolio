@@ -2,4 +2,4 @@
 A collection of mathematical explorations and topics
 
 Differentiable app 
-relish-afk.github.io/Mathematical-Portfolio/
+relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html
