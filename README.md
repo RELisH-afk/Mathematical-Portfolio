@@ -14,8 +14,8 @@ A rounded understanding of linear algebra and calculus and their applications
 
 
 ## Running reports
-- [Mathematical Modeling Report](Reports/Mathematical%20modeling%20report%20Final%20project.pdf)
-- [Technical Reflection](Reports/Technical%20reflection%20Final%20project.pdf)
+- [Mathematical Modeling Report](Reports/Mathematical%20modeling%20report%20Final%20project.md)
+- [Technical Reflection](Reports/Technical%20reflection%20Final%20project.md)
 
 ## Differentiability Application
 
