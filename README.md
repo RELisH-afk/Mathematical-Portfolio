@@ -14,7 +14,9 @@ A rounded understanding of linear algebra and calculus and their applications
 
 
 ## Running reports
-[technical reports](Reports/Mathematical modeling report Final project)
+-[technical reports](Reports/Mathematical modeling report Final project)
+
+-[Reflective statements](Reports/
 
 
 
