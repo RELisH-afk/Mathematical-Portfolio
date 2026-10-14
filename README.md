@@ -14,7 +14,7 @@ A rounded understanding of linear algebra and calculus and their applications
 
 
 ## Running reports
-[technical report Final](
+[technical reports](relish-afk.github.io/Mathematical-Portfolio/
 
 
 
