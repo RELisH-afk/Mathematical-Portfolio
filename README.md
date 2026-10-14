@@ -1,6 +1,10 @@
 # Mathematical Modeling & Computational Analysis Portfolio
 A collection of mathematical explorations and topics
 
-Link to launch differentiable app
 
-relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html
+## Differentiability Application
+
+An interactive application exploring numerical
+differentiation, continuity, and tangent lines.
+
+[Launch Differentiability Application](relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html)
