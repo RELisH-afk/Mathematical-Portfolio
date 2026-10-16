@@ -73,4 +73,4 @@ differentiation, continuity, and tangent lines involving the difference quotient
 
 -[Differntiability application folder](differentiability-app)
 
-- [Launch Differentiability Application](https://relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html)
+-[Launch Differentiability Application](https://relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html)
