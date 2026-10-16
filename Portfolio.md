@@ -14,10 +14,11 @@ A rounded understanding of linear algebra and calculus and their applications
 
 
 ## Running reports
-- [Mathematical Modeling Report](Reports/Mathematical%20modeling%20report%20Final%20project.md)
+- [Mathematical Modeling Report](Reports/An%20exploration%20on%20differentiability%20and%20continuity%20in%20relation%20to%20difference%20quotient.pdf)
+
 
 ## Reflections and notes
-- [Technical Reflection](Reports/Technical%Reflection.pdf)
+- [Technical Reflection](Reports/Technical%20Reflection.pdf)
 
 ## Differentiability Application
 
