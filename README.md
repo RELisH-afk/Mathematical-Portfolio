@@ -3,13 +3,14 @@ have done in school and on personal time
 
 The organization of the repository is the following
 
-** Classes
-Contains school assignment that are significant explorations of mathematical topics
-varying from number theory and calculus
-
-** Personal
-Contains personal projects that were done outside of class requirements. 
-contain much less serious topics (IE using desmos graphing to animate or draw.)
+**Reports
+Reports contain overviews and studies of the files name
 
 ** Portfolio
-contains an overview of my mathematical knowledge and experience 
+contains an overview of my mathematical knowledge and skills
+
+** differentiability app
+an app made with the idea of the difference quotient and its relation to the definition of differentiability. 
+
+**Apps - coming soon
+I plan on consolidating apps under one banner in the future when I make more, but currently there is only one
