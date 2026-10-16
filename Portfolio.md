@@ -49,11 +49,12 @@ Although this project did not involve numerical modeling, it introduced importan
 
 The experience provided a foundation for developing more advanced interactive applications, including my later Differentiability Application.
 
-## Skills
+## coding language proficiency
 
-coding language proficiency
 HTML
+
 C++
+
 JavaScript
 
 
