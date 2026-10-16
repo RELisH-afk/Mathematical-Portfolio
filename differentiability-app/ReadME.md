@@ -58,5 +58,6 @@ Technologies
 - JavaScript — Function evaluation, numerical calculations, and interactive updates
 Educational Purpose
 This project explores how definitions from calculus can be translated into computational methods. It connects continuity, differentiability, numerical error, and graphical interpretation, while encouraging critical evaluation of algorithmic conclusions.
+
 AI Assistance Disclosure
 ChatGPT was used as a learning and development resource for JavaScript implementation, debugging, mathematical explanations, numerical-method discussions, and documentation. Suggestions were reviewed and revised during development; numerical outputs should be independently checked against the relevant mathematics.
