@@ -25,4 +25,6 @@ A rounded understanding of linear algebra and calculus and their applications
 An interactive application exploring numerical
 differentiation, continuity, and tangent lines involving the difference quotient with step size h.
 
+-[Differntiability application folder](differentiability-app)
+
 [Launch Differentiability Application](https://relish-afk.github.io/Mathematical-Portfolio/differentiability-app/Index.html)
