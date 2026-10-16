@@ -2,9 +2,11 @@
 A collection of mathematical explorations and topics
 
 Name
-Edward Lee
+
+Robert Hamman
 
 education level
+
 Undergrad:sophomore year
 
 
