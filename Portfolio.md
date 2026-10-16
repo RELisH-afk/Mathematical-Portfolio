@@ -1,11 +1,11 @@
 # Mathematical Modeling & Computational Analysis Portfolio
 A collection of mathematical explorations and topics
 
-Name
+### Name
 
 Robert Hamman
 
-education level
+### Education level
 
 Undergrad:sophomore year
 
